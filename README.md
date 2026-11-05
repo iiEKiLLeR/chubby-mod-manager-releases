@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Download-Latest_Setup.exe-brightgreen?style=for-the-badge&logo=windows" alt="Download Latest Setup" />
   </a>
   <a href="https://github.com/iiEKiLLeR/chubby-mod-manager-releases/releases">
-    <img src="https://img.shields.io/badge/Releases-v1.0.3-blue?style=for-the-badge" alt="Releases" />
+    <img src="https://img.shields.io/badge/Releases-v1.0.4-blue?style=for-the-badge" alt="Releases" />
   </a>
 </p>
 
