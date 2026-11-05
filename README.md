@@ -43,3 +43,15 @@ Obsidian Cyan 🔵
 
 
 See all versions and patch notes on the [Releases page](https://github.com/iiEKiLLeR/chubby-mod-manager-releases/releases).
+
+
+
+## Mods Disclaimer
+
+The following mods are created and owned by their respective authors. I do not claim any ownership, rights, or authorship over these mods. All credit goes to their original creators.
+
+- https://www.nexusmods.com/residentevil42023/mods/6539
+- https://www.nexusmods.com/residentevil42023/mods/12
+- https://www.nexusmods.com/residentevil42023/mods/14
+
+Please support the original authors and refer to their Nexus Mods pages for the original files and permissions.
