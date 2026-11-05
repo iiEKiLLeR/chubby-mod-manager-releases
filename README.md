@@ -17,8 +17,6 @@ A mod manager for Resident Evil games with a built-in **RE4R Co-op mod** and REF
 
 
 
-
-.
 Umbrella Crimson 🔴
 
 
