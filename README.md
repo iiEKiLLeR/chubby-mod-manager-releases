@@ -6,6 +6,10 @@ A mod manager for Resident Evil games with a built-in co-op host system and the 
 
 **[⬇ Download the latest version](https://github.com/iiEKiLLeR/chubby-mod-manager-releases/releases/latest/download/Chubby_Mod_Manager_Setup.exe)**
 
+
+<img width="1379" height="779" alt="image" src="https://github.com/user-attachments/assets/140a6195-7823-437c-aad0-7c456b96bff9" />
+
+
 1. Run `Chubby_Mod_Manager_Setup.exe`.
 2. Pick an install folder and click **Install**.
 3. Open **Chubby Mod Manager** from your Desktop.
