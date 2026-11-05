@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>A modern, high-performance Mod Manager for Resident Evil games featuring P2P Co-op syncing, seamless 1-click updates, and the bundled RE4R Multiplayer Enhanced Mod.</b>
+  <b>A modern, high-performance Mod Manager for Resident Evil games bundled RE4R Multiplayer Enhanced Mod , REFramework.</b>
 </p>
 
 <p align="center">
