@@ -1,6 +1,6 @@
 # Chubby Mod Manager
 
-A mod manager for Resident Evil games with a built-in co-op host system and the enhanced **RE4R Co-op mod** (double-cursor fix, smoother enemies, themed in-game menu).
+A mod manager for Resident Evil games with a built-in co-op host system and the enhanced **RE4R Co-op mod** (themed in-game menu).
 
 ## Download
 
@@ -16,6 +16,5 @@ A mod manager for Resident Evil games with a built-in co-op host system and the 
 
 ## Updates
 
-The app checks this page every time it opens. When a new version is out, you get a **"New update available"** popup with the patch notes. Click **Update** and it installs itself. Your mods and settings are kept.
-
+See README.md
 See all versions and patch notes on the [Releases page](https://github.com/iiEKiLLeR/chubby-mod-manager-releases/releases).
