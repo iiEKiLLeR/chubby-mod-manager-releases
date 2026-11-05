@@ -1,7 +1,6 @@
 # Chubby Mod Manager
 
-<p align="center">
-  <img src="screenshots/gameplay-banner.png" alt="Resident Evil 4 Remake Multiplayer Co-op Banner" width="100%" />
+
 </p>
 
 <p align="center">
