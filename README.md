@@ -29,7 +29,6 @@
   - **Live REFramework & Co-op Theme Sync**: In-game REFramework (`dinput8.dll`) and Co-op menus automatically synchronize colors and modern rounded borders to your chosen theme.
   - **Quick REFramework Toggle**: Open REFramework instantly in-game using `Fn + 5` (`F5`).
 - **🎨 5 Stunning Built-in Themes**: Switch on the fly between *Umbrella Crimson*, *Obsidian Cyan*, *Biohazard Emerald*, *Amethyst Noir*, and *Tactical Amber*.
-- **🔄 Auto-Updating via GitHub**: Every time you launch Chubby Mod Manager, it checks GitHub in the background. If a new version is released, a one-click update modal appears with patch notes.
 - **🤝 (Soon)P2P Co-op Mod Syncing**: Host a session and friends can automatically download and sync matching mod lists directly with you.
 
 ---
