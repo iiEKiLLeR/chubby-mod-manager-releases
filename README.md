@@ -45,12 +45,10 @@
   <img src="screenshots/coop.png" alt="Chubby Mod Manager - Co-op Center" width="90%" />
 </p>
 
-### One-Click Update & Hotfix Release Notes
-<p align="center">
-  <img src="screenshots/patch-notes.png" alt="Chubby Mod Manager - Automatic Patch Notes & Updater" width="90%" />
-</p>
 
-### Manager Configuration & Performance Settings
+
+
+### Manager Configuration 
 <p align="center">
   <img src="screenshots/options.png" alt="Chubby Mod Manager - Options" width="90%" />
 </p>
