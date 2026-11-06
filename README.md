@@ -40,7 +40,7 @@
   <img src="screenshots/mods.png" alt="Chubby Mod Manager - Mods Library" width="90%" />
 </p>
 
-### Co-op Host & Network Center
+### (Coming Soon) Co-op Host & Network Center
 <p align="center">
   <img src="screenshots/coop.png" alt="Chubby Mod Manager - Co-op Center" width="90%" />
 </p>
