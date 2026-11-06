@@ -84,9 +84,4 @@ Chubby Mod Manager features 5 live-switchable themes that synchronize dynamicall
 
 ---
 
-## 🔁 Automatic Updates
 
-You never have to manually reinstall to receive updates:
-- Chubby Mod Manager automatically checks GitHub on startup.
-- When an update or hotfix is published, a release modal with full patch notes appears.
-- Click **Update** to download and hot-swap the new version seamlessly without losing any mods, presets, or settings.
