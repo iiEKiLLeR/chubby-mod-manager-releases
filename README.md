@@ -30,6 +30,43 @@
 
 ---
 
+## 📸 Screenshots
+
+### Mod Library & Active Manager
+<p align="center">
+  <img src="screenshots/mods.png" alt="Chubby Mod Manager - Mods Library" width="90%" />
+</p>
+
+### Co-op Host & Network Center
+<p align="center">
+  <img src="screenshots/coop.png" alt="Chubby Mod Manager - Co-op Center" width="90%" />
+</p>
+
+### Manager Configuration
+<p align="center">
+  <img src="screenshots/options.png" alt="Chubby Mod Manager - Options" width="90%" />
+</p>
+
+---
+
+## 🎨 Themes Showcase
+
+Chubby Mod Manager features 5 live-switchable themes that synchronize dynamically with your in-game menus:
+
+| Umbrella Crimson | Obsidian Cyan |
+| :---: | :---: |
+| <img src="screenshots/theme-umbrella_crimson.png" width="100%" /> | <img src="screenshots/theme-obsidian_cyan.png" width="100%" /> |
+
+| Biohazard Emerald | Amethyst Noir |
+| :---: | :---: |
+| <img src="screenshots/theme-biohazard_emerald.png" width="100%" /> | <img src="screenshots/theme-amethyst_noir.png" width="100%" /> |
+
+| Tactical Amber |
+| :---: |
+| <img src="screenshots/theme-tactical_amber.png" width="50%" /> |
+
+---
+
 ## 📥 Installation
 
 1. Download **[Chubby_Mod_Manager_Setup.exe](https://github.com/iiEKiLLeR/chubby-mod-manager-releases/releases/latest/download/Chubby_Mod_Manager_Setup.exe)**.
