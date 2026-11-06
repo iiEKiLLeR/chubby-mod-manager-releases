@@ -1,10 +1,7 @@
 # Chubby Mod Manager
 
-
-</p>
-
 <p align="center">
-  <b>A modern, high-performance Mod Manager for Resident Evil games bundled RE4R Multiplayer Enhanced Mod , REFramework.</b>
+  <b>A modern, high-performance Mod Manager for Resident Evil games bundled with RE4R Multiplayer Enhanced Mod & REFramework.</b>
 </p>
 
 <p align="center">
@@ -12,7 +9,7 @@
     <img src="https://img.shields.io/badge/Download-Latest_Setup.exe-brightgreen?style=for-the-badge&logo=windows" alt="Download Latest Setup" />
   </a>
   <a href="https://github.com/iiEKiLLeR/chubby-mod-manager-releases/releases">
-    <img src="https://img.shields.io/badge/Releases-v1.0.5-blue?style=for-the-badge" alt="Releases" />
+    <img src="https://img.shields.io/badge/Releases-v1.0.10-blue?style=for-the-badge" alt="Releases" />
   </a>
 </p>
 
@@ -29,47 +26,7 @@
   - **Live REFramework & Co-op Theme Sync**: In-game REFramework (`dinput8.dll`) and Co-op menus automatically synchronize colors and modern rounded borders to your chosen theme.
   - **Quick REFramework Toggle**: Open REFramework instantly in-game using `Fn + 5` (`F5`).
 - **🎨 5 Stunning Built-in Themes**: Switch on the fly between *Umbrella Crimson*, *Obsidian Cyan*, *Biohazard Emerald*, *Amethyst Noir*, and *Tactical Amber*.
-- **🤝 (Soon)P2P Co-op Mod Syncing**: Host a session and friends can automatically download and sync matching mod lists directly with you.
-
----
-
-## 📸 Screenshots
-
-### Mod Library & Active Manager
-<p align="center">
-  <img src="screenshots/mods.png" alt="Chubby Mod Manager - Mods Library" width="90%" />
-</p>
-
-### (Coming Soon) Co-op Host & Network Center
-<p align="center">
-  <img src="screenshots/coop.png" alt="Chubby Mod Manager - Co-op Center" width="90%" />
-</p>
-
-
-
-
-### Manager Configuration 
-<p align="center">
-  <img src="screenshots/options.png" alt="Chubby Mod Manager - Options" width="90%" />
-</p>
-
----
-
-## 🎨 Themes Showcase
-
-Chubby Mod Manager features 5 live-switchable themes that synchronize dynamically with your in-game menus:
-
-| Umbrella Crimson | Obsidian Cyan |
-| :---: | :---: |
-| <img src="screenshots/theme-umbrella_crimson.png" width="100%" /> | <img src="screenshots/theme-obsidian_cyan.png" width="100%" /> |
-
-| Biohazard Emerald | Amethyst Noir |
-| :---: | :---: |
-| <img src="screenshots/theme-biohazard_emerald.png" width="100%" /> | <img src="screenshots/theme-amethyst_noir.png" width="100%" /> |
-
-| Tactical Amber |
-| :---: |
-| <img src="screenshots/theme-tactical_amber.png" width="50%" /> |
+- **🤝 P2P Co-op Mod Syncing**: Host a session and friends can automatically download and sync matching mod lists directly with you.
 
 ---
 
@@ -81,5 +38,3 @@ Chubby Mod Manager features 5 live-switchable themes that synchronize dynamicall
 4. Launch the manager, enable your mods, and press **PLAY**!
 
 ---
-
-
