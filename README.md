@@ -49,7 +49,8 @@
 
 ### Manager Configuration & Options
 <p align="center">
-  <img src="screenshots/options.png" alt="Chubby Mod Manager - Options" width="95%" />
+  <img width="1480" height="820" alt="image" src="https://github.com/user-attachments/assets/9cc91597-03d3-4d72-b841-def7e593075c" />
+
 </p>
 
 ### What's New & Patch Notes Modal
