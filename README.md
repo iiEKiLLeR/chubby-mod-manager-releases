@@ -38,7 +38,8 @@
 
 ### Mod Library, Category Navigator & Active Toggles
 <p align="center">
-  <img src="screenshots/mods.png" alt="Chubby Mod Manager - Mods Library & Categories" width="95%" />
+  <img width="1480" height="820" alt="image" src="https://github.com/user-attachments/assets/d1f07465-5881-4741-8d36-c82e310ee7e7" />
+
 </p>
 
 ### Co-op Host & Network Center
