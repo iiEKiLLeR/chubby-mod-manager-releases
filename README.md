@@ -17,20 +17,63 @@
 
 ## ⚡ Highlights & Features
 
-- **📂 Category Navigator (`CHARACTERS` & `OTHER`)**: Automatically organizes mods by character (*Leon*, *Ada*, *Ashley*, *Luis*, *Claire*, *Jill*, *Wesker*, etc.) and type (*Co-op & Multiplayer*, *RE Framework*, *Weapons*, *Models*, *Textures*, *Animations*, *Music*, *Misc*) with live active indicators, mod counts, and one-click category reassignment.
-- **🟢 Instant ON / OFF Mod & Category Toggles**: Turn individual mods, entire categories (`All ON` / `All OFF`), or your full library (`Turn All ON` / `Turn All OFF`) on and off with a single click.
-- **📐 Resizable Panels & Auto-Save Layout**: Drag any divider across the Sidebar, Category Navigator, Mod List, Mod Details & Preview, Co-op Center, or Options screen to customize your workspace—your layout saves automatically and stays where you left it.
-- **🎮 One-Click Game Launch (`▶ PLAY`)**: Instantly launch your selected Resident Evil game via Steam or executable directly from the manager.
-- **🧟 RE4R Multiplayer (Chubby Enhanced)**: Comes bundled with the enhanced Resident Evil 4 Remake Co-op mod:
-  - **Single OS Mouse Cursor Fix**: Eliminates the annoying double-cursor bug when clicking in-game menus.
-  - **Smooth 60 Hz Enemy & Partner Animation**: No more 10–20 FPS choppy zombie animations on partner screens.
-  - **Immersive In-Game Menu**: Upper-right "Co-op" button smoothly auto-hides during gameplay when not hovered.
-  - **Non-Blocking Menus**: Opening inventory or pause menu no longer freezes gameplay for your partner.
-  - **Live REFramework & Co-op Theme Sync**: In-game REFramework (`dinput8.dll`) and Co-op menus automatically synchronize colors and modern rounded borders to your chosen theme.
-  - **Quick REFramework Toggle**: Open REFramework instantly in-game using `Fn + 5` (`F5`).
-- **🎨 5 Stunning Built-in Themes**: Switch on the fly between *Umbrella Crimson*, *Obsidian Cyan*, *Biohazard Emerald*, *Amethyst Noir*, and *Tactical Amber*.
-- **🤝 P2P Co-op Mod Syncing**: Host a session and friends can automatically download and sync matching mod lists directly with you.
+### 📂 Smart Category Navigator
+Keep your entire mod library organized and accessible with dedicated **CHARACTERS** and **OTHER** categories.
 
+- **Character Categories:** Leon, Ada, Ashley, Luis, Claire, Jill, Wesker, and more.
+- **Mod Categories:** Co-op & Multiplayer, REFramework, Weapons, Models, Textures, Animations, Music, and Miscellaneous.
+- **Live Status Indicators:** Instantly see which categories contain active mods.
+- **Mod Counts:** Track the number of mods in each category.
+- **One-Click Reassignment:** Easily move mods between categories.
+
+### 🟢 Instant Mod & Category Control
+Take complete control of your mod library with fast, one-click toggles.
+
+- Enable or disable individual mods instantly.
+- Turn entire categories **ON or OFF** at once.
+- Use **Turn All ON / Turn All OFF** to control your entire mod collection.
+- Manage large mod libraries without manually toggling each mod.
+
+### 📐 Fully Customizable Workspace
+Make the manager work the way you want.
+
+- Resize panels by dragging dividers across the Sidebar, Category Navigator, Mod List, Mod Details & Preview, Co-op Center, and Options.
+- Customize your workspace to fit your preferred workflow.
+- **Automatic Layout Saving:** Your panel sizes and workspace arrangement are saved automatically and restored the next time you launch the manager.
+
+### 🎮 One-Click Game Launch
+Skip the extra steps and jump straight into the game.
+
+- Launch your selected Resident Evil title directly from the manager.
+- Supports launching through **Steam or the game's executable**.
+- Start your game without leaving the application.
+
+### 🧟 Resident Evil 4 Remake Multiplayer — Chubby Enhanced
+A bundled, enhanced version of the RE4 Remake Co-op mod, featuring quality-of-life improvements and a more polished multiplayer experience.
+
+- **Live Theme Synchronization:** REFramework (`dinput8.dll`) and Co-op menus automatically match your manager's selected theme, including colors and modern rounded borders.
+- **Quick REFramework Access:** Open REFramework instantly in-game using **F5 (Fn + 5)**.
+
+### 🎨 Five Premium Built-in Themes
+Give your manager a look that matches your style with five carefully designed themes.
+
+- 🔴 **Umbrella Crimson**
+- 🔵 **Obsidian Cyan**
+- 🟢 **Biohazard Emerald**
+- 🟣 **Amethyst Noir**
+- 🟠 **Tactical Amber**
+
+Switch between themes instantly and enjoy a consistent visual experience throughout the manager and supported in-game interfaces.
+
+### 🤝 (Coming Soon)P2P Multiplayer Mod Synchronization
+Make playing together easier with built-in peer-to-peer mod synchronization.
+
+- Host your own multiplayer session.
+- Let friends connect directly to your session.
+- Automatically share and download matching mod lists.
+- Keep everyone's mod setup synchronized for a smoother multiplayer experience.
+
+**One manager. Your entire mod library. A better way to play Resident Evil.**
 ---
 
 ## 📸 Screenshots
