@@ -20,7 +20,6 @@
 - **📂 Category Navigator (`CHARACTERS` & `OTHER`)**: Automatically organizes mods by character (*Leon*, *Ada*, *Ashley*, *Luis*, *Claire*, *Jill*, *Wesker*, etc.) and type (*Co-op & Multiplayer*, *RE Framework*, *Weapons*, *Models*, *Textures*, *Animations*, *Music*, *Misc*) with live active indicators, mod counts, and one-click category reassignment.
 - **🟢 Instant ON / OFF Mod & Category Toggles**: Turn individual mods, entire categories (`All ON` / `All OFF`), or your full library (`Turn All ON` / `Turn All OFF`) on and off with a single click.
 - **📐 Resizable Panels & Auto-Save Layout**: Drag any divider across the Sidebar, Category Navigator, Mod List, Mod Details & Preview, Co-op Center, or Options screen to customize your workspace—your layout saves automatically and stays where you left it.
-- **📦 Full `.pak` & Loose-File Compatibility**: Automatically installs `.pak` archives as numbered `re_chunk_000.pak.patch_NNN.pak` patches with the 5-file `KPKA` dummy PAK barrier and enables `LooseFileLoader_Enabled=true` in `re2_fw_config.txt`.
 - **🎮 One-Click Game Launch (`▶ PLAY`)**: Instantly launch your selected Resident Evil game via Steam or executable directly from the manager.
 - **🧟 RE4R Multiplayer (Chubby Enhanced)**: Comes bundled with the enhanced Resident Evil 4 Remake Co-op mod:
   - **Single OS Mouse Cursor Fix**: Eliminates the annoying double-cursor bug when clicking in-game menus.
